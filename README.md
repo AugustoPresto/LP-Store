@@ -1,7 +1,7 @@
 # LP-Store
 After the [LP Database](https://github.com/AugustoPresto/LP-Database), now we have an app for a **LP Store**! 👊
 
-Imagine we're in a pandemic and it's recommended to everyone stay safe at home (just imagine...). So the sales are made online, so orders have a boolean delivered variable. We have two types of employees, managers and salespeople. Each role has specific actions.
+Imagine we're in a pandemic and it's recommended to everyone stay safe at home (just imagine...). So the sales are made online, that's why orders have a boolean delivered variable. We have two types of employees, managers and salespeople. Each role has specific actions. To do that, the user must login so the router gives you the actions based on the role. Nice!
 Again, it's terminal-based and all in Ruby using the MVC pattern.
 
 To store data, it uses CSV files for our four models:
