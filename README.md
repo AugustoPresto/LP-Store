@@ -18,7 +18,7 @@ To store data, it uses CSV files for our four models:
    * Email
    * Address
 1. Order: the model where everybody goes together!
-1. LP
+   * LP
    * Employee
    * Customer
    * Delivered?
