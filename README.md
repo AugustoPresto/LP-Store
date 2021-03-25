@@ -6,19 +6,19 @@ Again, it's terminal-based and all in Ruby using the MVC pattern.
 
 To store data, it uses CSV files for our four models:
 1. LP
-  1. Artist name
-  1. Title
-  1. Released year
-  1. Price
+    1. Artist name
+    1. Title
+    1. Released year
+    1. Price
 1. Employee (manager or salesperson)
-  1. Username
-  1. Password
+    1. Username
+    1. Password
 1. Customer
-  1. Name
-  1. Email
-  1. Address
+    1. Name
+    1. Email
+    1. Address
 1. Order: the model where everybody goes together!
-  1. LP
-  1. Employee
-  1. Customer
-  1. Delivered?
+    1. LP
+    1. Employee
+    1. Customer
+    1. Delivered?
